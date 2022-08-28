@@ -1,4 +1,4 @@
-## Understanding GitHUb! This directory is for Practice ONLY👋
+## ALX Cohort 9 Trainee! 👋
 
 <!--
 **Ambyoksa/Ambyoksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
