@@ -1,7 +1,7 @@
-# ALX Cohort9 Trainee! 👋
+<h1 align="center">Hi # ALX Cohort9 Trainee! 👋
 
-https://camo.githubusercontent.com/badcc819734aa1adbb9fbca7d9ddee8edf2d0b1654e62e67fbd1ad141203365c/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
 
-### I’m currently working to be a cerified Software Engineer
+<h1 align="center">Hi ### I’m currently working to be a cerified Software Engineer
 
 
