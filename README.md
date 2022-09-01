@@ -1,4 +1,4 @@
-<h1 align="left"> ALX Cohort9 Trainee! 👋
+<h1 align="center"> ALX Cohort9 Trainee! 👋
 
 
 
@@ -13,6 +13,6 @@
     <img width="33%" src="https://kinsta.com/wp-content/uploads/2022/01/what-is-io-1024x512.jpg">
 </p>
 
-<h3 align="center"> Currently working to be a cerified Software Engineer
+<h3 align="left"> Currently working to be a cerified Software Engineer
 <h5 align="left"> #DoingHardThingsDaily
 
