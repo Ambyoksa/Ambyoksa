@@ -13,6 +13,6 @@
     <img width="33%" src="https://kinsta.com/wp-content/uploads/2022/01/what-is-io-1024x512.jpg">
 </p>
 
-<h3 align="left"> Currently working to be a cerified Software Engineer
-<h5 align="left"> #DoingHardThingsDaily
+<h3 align="left"> Working to be a cerified Software Engineer
+<h4 align="left"> #DoHardThings
 
