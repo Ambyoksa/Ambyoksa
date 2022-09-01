@@ -1,9 +1,9 @@
-<h1 align="left"> I'm ALX Cohort9 Trainee! 👋
+<h1 align="left"> ALX Cohort9 Trainee! 👋
 
 
 
-<p align="left" width="150%">
-    <img width="110%" src="https://pcheaven.in/wp-content/uploads/2021/06/When-using-analytics-what-do-you-understand-by-the-term-conversion-4.jpg">
+<p align="center" width="100%">
+    <img width="97%" src="https://pcheaven.in/wp-content/uploads/2021/06/When-using-analytics-what-do-you-understand-by-the-term-conversion-4.jpg">
 </p>
 
 
